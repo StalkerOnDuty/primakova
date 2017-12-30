@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Duty>
+	<StartTime>08:00:00</StartTime>
+	<FinishTime>07:59:00</FinishTime>
+	<RoundPeriod>01:00:00</RoundPeriod>
+	<RoundDelay>00:15:00</RoundDelay>
+	<MinPresenceControlInterval>00:20:00</MinPresenceControlInterval>
+	<MaxPresenceControlInterval>00:25:00</MaxPresenceControlInterval>
+	<PresenceControlReactionTime>00:00:59</PresenceControlReactionTime>
+	<NFCPoints>
+		<Point>
+			<UID>34E90D1</UID>
+			<Name>Point 1</Name>
+			<DelayBeforeActivation>00:00:05</DelayBeforeActivation>
+			<ReadTime>00:02:00</ReadTime>
+		</Point>
+		<Point>
+			<UID>2BB169ED</UID>
+			<Name>Point 2</Name>
+			<DelayBeforeActivation>00:02:30</DelayBeforeActivation>
+			<ReadTime>00:03:30</ReadTime>
+		</Point>
+		<Point>
+			<UID>13B391D1</UID>
+			<Name>Point 3</Name>
+			<DelayBeforeActivation>00:02:30</DelayBeforeActivation>
+			<ReadTime>00:04:00</ReadTime>
+		</Point>
+		<Point>
+			<UID>13139BD1</UID>
+			<Name>Point 4</Name>
+			<DelayBeforeActivation>00:03:00</DelayBeforeActivation>
+			<ReadTime>00:04:00</ReadTime>
+		</Point>
+		<Point>
+			<UID>F36290D1</UID>
+			<Name>Point 5</Name>
+			<DelayBeforeActivation>00:03:30</DelayBeforeActivation>
+			<ReadTime>00:04:30</ReadTime>
+		</Point>
+	</NFCPoints>
+</Duty>
