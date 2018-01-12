@@ -23,8 +23,8 @@
 		<Point>
 			<UID>8370a179</UID>
 			<Name>Точка 3</Name>
-			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
-			<ReadTime>00:04:00</ReadTime>
+			<DelayBeforeActivation>00:03:30</DelayBeforeActivation>
+			<ReadTime>00:04:30</ReadTime>
 		</Point>
 		<Point>
 			<UID>6d5da4b9</UID>
