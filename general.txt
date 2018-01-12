@@ -2,11 +2,11 @@
 <Duty>
 	<StartTime>20:30:00</StartTime>
 	<FinishTime>06:00:00</FinishTime>
-	<RoundPeriod>00:45:00</RoundPeriod>
+	<RoundPeriod>01:00:00</RoundPeriod>
 	<RoundDelay>00:15:00</RoundDelay>
 	<MinPresenceControlInterval>00:15:00</MinPresenceControlInterval>
 	<MaxPresenceControlInterval>00:20:00</MaxPresenceControlInterval>
-	<PresenceControlReactionTime>00:01:30</PresenceControlReactionTime>
+	<PresenceControlReactionTime>00:59:00</PresenceControlReactionTime>
 	<NFCPoints>
 		<Point>
 			<UID>6305a4b9</UID>
