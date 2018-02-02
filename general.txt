@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Duty>
-	<StartTime>21:00:00</StartTime>
-	<FinishTime>05:30:00</FinishTime>
-	<RoundPeriod>01:00:00</RoundPeriod>
+	<StartTime>22:00:00</StartTime>
+	<FinishTime>05:00:00</FinishTime>
+	<RoundPeriod>00:55:00</RoundPeriod>
 	<RoundDelay>00:15:00</RoundDelay>
 	<MinPresenceControlInterval>00:15:00</MinPresenceControlInterval>
 	<MaxPresenceControlInterval>00:20:00</MaxPresenceControlInterval>
@@ -11,8 +11,8 @@
 		<Point>
 			<UID>6305a4b9</UID>
 			<Name>Point 1</Name>
-			<DelayBeforeActivation>00:00:05</DelayBeforeActivation>
-			<ReadTime>00:02:00</ReadTime>
+			<DelayBeforeActivation>00:03:00</DelayBeforeActivation>
+			<ReadTime>00:04:00</ReadTime>
 		</Point>
 		<Point>
 			<UID>eacfa179</UID>
