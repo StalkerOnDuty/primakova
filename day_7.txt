@@ -17,26 +17,26 @@
 		<Point>
 			<UID>eacfa179</UID>
 			<Name>Point 2</Name>
-			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
-			<ReadTime>00:03:00</ReadTime>
+			<DelayBeforeActivation>00:04:00</DelayBeforeActivation>
+			<ReadTime>00:05:00</ReadTime>
 		</Point>
 		<Point>
 			<UID>8370a179</UID>
 			<Name>Point 3</Name>
-			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
-			<ReadTime>00:03:00</ReadTime>
+			<DelayBeforeActivation>00:03:50</DelayBeforeActivation>
+			<ReadTime>00:04:00</ReadTime>
 		</Point>
 		<Point>
 			<UID>6d5da4b9</UID>
 			<Name>Point 4</Name>
-			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
-			<ReadTime>00:03:00</ReadTime>
+			<DelayBeforeActivation>00:03:00</DelayBeforeActivation>
+			<ReadTime>00:04:00</ReadTime>
 		</Point>
 		<Point>
 			<UID>66c5a4b9</UID>
 			<Name>Point 5</Name>
-			<DelayBeforeActivation>00:01:00</DelayBeforeActivation>
-			<ReadTime>00:02:00</ReadTime>
+			<DelayBeforeActivation>00:03:00</DelayBeforeActivation>
+			<ReadTime>00:04:00</ReadTime>
 		</Point>
 	</NFCPoints>
 </Duty>
