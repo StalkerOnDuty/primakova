@@ -18,13 +18,13 @@
 			<UID>eacfa179</UID>
 			<Name>Point 2</Name>
 			<DelayBeforeActivation>00:03:30</DelayBeforeActivation>
-			<ReadTime>00:03:50</ReadTime>
+			<ReadTime>00:04:00</ReadTime>
 		</Point>
 		<Point>
 			<UID>8370a179</UID>
 			<Name>Point 3</Name>
-			<DelayBeforeActivation>00:04:00</DelayBeforeActivation>
-			<ReadTime>00:04:20</ReadTime>
+			<DelayBeforeActivation>00:04:40</DelayBeforeActivation>
+			<ReadTime>00:05:20</ReadTime>
 		</Point>
 		<Point>
 			<UID>6d5da4b9</UID>
